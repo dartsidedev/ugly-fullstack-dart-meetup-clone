@@ -3,7 +3,7 @@
 > **`ugly-fullstack-dart-meetup-clone`**
 > [`dartside.dev`](https://dartside.dev)
 
-> Implement a Meetup clone using nothing but Dart.
+A Meetup clone using nothing but Dart.
 
 ## Background
 
