@@ -7,9 +7,9 @@ A Meetup clone using nothing but Dart.
 
 ## Background
 
-> UG.ly! Yeah, easiest thing ever is naming things. Hmmm. I'm developing an app that's similar to Meetup.com and focuses on user groups... UG... Now, I need one of the fancy top-level domains that the cool kids use. `.dev`, `.io`, `.ly`, `.app`. Oh! `UG.ly`, terrific. Let's buy that domain, I'm sure it's still free and I'm the first person on the planet who thought of this.
+> Vince's thought: Yeah, easiest thing ever is naming things. Hmmm. I'm developing an app that's similar to Meetup.com and focuses on user groups... UG. Now, I need one of the fancy top-level domains that the cool kids use. `.dev`, `.io`, `.app`, `.co`, `.ly`. Oh! **`UG.ly`**, terrific. Let's buy that domain, I'm sure it's still available and I'm the first person on the planet who thought of this.
 
-Well, well, well, all jokes aside. This project should be ready this weekend, so better get started.
+Well, well, well... How about I stop funking around. This project should be ready this weekend, so better get started.
 
 This repository contains a simplified [Meetup](https://meetup.com) clone written in Dart. The web app, the mobile app, and the backend are all written in Dart. This project serves as an experiment for my talk about Full-stack development in Dart.
 
